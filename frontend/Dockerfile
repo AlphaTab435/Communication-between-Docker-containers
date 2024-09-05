@@ -1,0 +1,14 @@
+FROM node:latest
+RUN mkdir -p /usr/src/app
+WORKDIR /usr/src/app
+COPY . /usr/src/app
+RUN npm install
+RUN npm cache clean --force
+EXPOSE 5173
+CMD ["npm", "run", "dev"]
+
+
+# docker build -t mcqs_frontend .
+# docker run -p 5173:5173 -d mcqs_frontend
+
+

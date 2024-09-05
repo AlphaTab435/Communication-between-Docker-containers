@@ -1,0 +1,1190 @@
+[
+    {
+        "Category": "BASIC SCIENCES - Anatomy",
+        "Question": "Which nerve primarily provides sensation to the palmar aspect of the thumb?",
+        "Options": [
+            "A) Radial nerve",
+            "B) Median nerve",
+            "C) Ulnar nerve",
+            "D) Dorsal nerve"
+        ],
+        "Answer": "B) Median nerve"
+    },
+    {
+        "Category": "BASIC SCIENCES - Anatomy",
+        "Question": "The diaphragm is innervated by which nerve?",
+        "Options": [
+            "A) Intercostal nerve",
+            "B) Vagus nerve",
+            "C) Phrenic nerve",
+            "D) Accessory nerve"
+        ],
+        "Answer": "C) Phrenic nerve"
+    },
+    {
+        "Category": "BASIC SCIENCES - Anatomy",
+        "Question": "Which anatomical structure connects the middle ear to the nasopharynx?",
+        "Options": [
+            "A) Cochlear canal",
+            "B) Semicircular canal",
+            "C) Eustachian tube",
+            "D) Auditory meatus"
+        ],
+        "Answer": "C) Eustachian tube"
+    },
+    {
+        "Category": "BASIC SCIENCES - Anatomy",
+        "Question": "The sciatic nerve branches into which two primary nerves?",
+        "Options": [
+            "A) Femoral and obturator",
+            "B) Tibial and common peroneal",
+            "C) Gluteal and pudendal",
+            "D) Iliohypogastric and ilioinguinal"
+        ],
+        "Answer": "B) Tibial and common peroneal"
+    },
+    {
+        "Category": "BASIC SCIENCES - Anatomy",
+        "Question": "The internal jugular vein runs lateral to which structure in the neck?",
+        "Options": [
+            "A) Carotid artery",
+            "B) Thyroid gland",
+            "C) Trachea",
+            "D) Esophagus"
+        ],
+        "Answer": "A) Carotid artery"
+    },
+    {
+        "Category": "Physics, Monitoring & Anesthesia Delivery Devices",
+        "Question": "Which law relates the volume and pressure of a gas at constant temperature?",
+        "Options": [
+            "A) Boyle's Law",
+            "B) Charles's Law",
+            "C) Graham's Law",
+            "D) Dalton's Law"
+        ],
+        "Answer": "A) Boyle's Law"
+    },
+    {
+        "Category": "Physics, Monitoring & Anesthesia Delivery Devices",
+        "Question": "What does the P-wave represent on an ECG?",
+        "Options": [
+            "A) Ventricular depolarization",
+            "B) Ventricular repolarization",
+            "C) Atrial depolarization",
+            "D) Atrial repolarization"
+        ],
+        "Answer": "C) Atrial depolarization"
+    },
+    {
+        "Category": "Physics, Monitoring & Anesthesia Delivery Devices",
+        "Question": "In a circle absorber system, which component removes carbon dioxide?",
+        "Options": [
+            "A) Vaporizer",
+            "B) Flowmeter",
+            "C) Soda lime",
+            "D) Reservoir bag"
+        ],
+        "Answer": "C) Soda lime"
+    },
+    {
+        "Category": "Physics, Monitoring & Anesthesia Delivery Devices",
+        "Question": "The bispectral index (BIS) monitors what aspect during anesthesia?",
+        "Options": [
+            "A) Neuromuscular blockade",
+            "B) Depth of anesthesia",
+            "C) Blood pressure",
+            "D) Oxygen saturation"
+        ],
+        "Answer": "B) Depth of anesthesia"
+    },
+    {
+        "Category": "Physics, Monitoring & Anesthesia Delivery Devices",
+        "Question": "Which type of vaporizer is temperature-compensated and pressure-compensated?",
+        "Options": [
+            "A) Plenum",
+            "B) Drawover",
+            "C) Tec 7",
+            "D) Tec 6"
+        ],
+        "Answer": "D) Tec 6"
+    },
+    {
+        "Category": "BASIC SCIENCES - Mathematics",
+        "Question": "If a drug has a half-life of 4 hours, how much of a 100mg dose is left after 8 hours?",
+        "Options": [
+            "A) 50mg",
+            "B) 25mg",
+            "C) 75mg",
+            "D) 0mg"
+        ],
+        "Answer": "B) 25mg"
+    },
+    {
+        "Category": "BASIC SCIENCES - Mathematics",
+        "Question": "A patient weighs 70kg. Calculate the dose of a drug given at 5mg/kg.",
+        "Options": [
+            "A) 350mg",
+            "B) 280mg",
+            "C) 450mg",
+            "D) 140mg"
+        ],
+        "Answer": "A) 350mg"
+    },
+    {
+        "Category": "BASIC SCIENCES - Mathematics",
+        "Question": "Calculate the mean arterial pressure (MAP) if systolic pressure is 120mmHg and diastolic pressure is 80mmHg.",
+        "Options": [
+            "A) 90mmHg",
+            "B) 93mmHg",
+            "C) 100mmHg",
+            "D) 87mmHg"
+        ],
+        "Answer": "B) 93mmHg"
+    },
+    {
+        "Category": "Pharmacology",
+        "Question": "What is the primary mechanism of action of propofol?",
+        "Options": [
+            "A) Sodium channel blocker",
+            "B) GABA receptor agonist",
+            "C) NMDA receptor antagonist",
+            "D) Beta adrenergic agonist"
+        ],
+        "Answer": "B) GABA receptor agonist"
+    },
+    {
+        "Category": "Pharmacology",
+        "Question": "Which opioid has the longest duration of action?",
+        "Options": [
+            "A) Morphine",
+            "B) Fentanyl",
+            "C) Remifentanil",
+            "D) Alfentanil"
+        ],
+        "Answer": "A) Morphine"
+    },
+    {
+        "Category": "Pharmacology",
+        "Question": "Neostigmine reverses the effects of which class of drugs?",
+        "Options": [
+            "A) Benzodiazepines",
+            "B) Barbiturates",
+            "C) Neuromuscular blockers",
+            "D) Opioids"
+        ],
+        "Answer": "C) Neuromuscular blockers"
+    },
+    {
+        "Category": "Pharmacology",
+        "Question": "Which benzodiazepine is commonly used for procedural sedation due to its short duration of action?",
+        "Options": [
+            "A) Diazepam",
+            "B) Lorazepam",
+            "C) Midazolam",
+            "D) Alprazolam"
+        ],
+        "Answer": "C) Midazolam"
+    },
+    {
+        "Category": "Pharmacology",
+        "Question": "Which local anesthetic has the longest duration of action for peripheral nerve block?",
+        "Options": [
+            "A) Lidocaine",
+            "B) Bupivacaine",
+            "C) Ropivacaine",
+            "D) Mepivacaine"
+        ],
+        "Answer": "B) Bupivacaine"
+    },
+    {
+        "Category": "Pharmacology",
+        "Question": "Which of the following is NOT an inhalational anesthetic?",
+        "Options": [
+            "A) Sevoflurane",
+            "B) Isoflurane",
+            "C) Propofol",
+            "D) Desflurane"
+        ],
+        "Answer": "C) Propofol"
+    },
+    {
+        "Category": "Pharmacology",
+        "Question": "The antidote for benzodiazepine overdose is:",
+        "Options": [
+            "A) Flumazenil",
+            "B) Naloxone",
+            "C) Atropine",
+            "D) Epinephrine"
+        ],
+        "Answer": "A) Flumazenil"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Regional Anesthesia",
+        "Question": "Which block provides anesthesia to the anterolateral aspect of the abdomen?",
+        "Options": [
+            "A) Intercostal block",
+            "B) Caudal block",
+            "C) TAP (Transversus abdominis plane) block",
+            "D) Femoral nerve block"
+        ],
+        "Answer": "C) TAP (Transversus abdominis plane) block"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Regional Anesthesia",
+        "Question": "The risk of pneumothorax is highest with which regional block?",
+        "Options": [
+            "A) Cervical plexus block",
+            "B) Supraclavicular block",
+            "C) Axillary block",
+            "D) Lumbar plexus block"
+        ],
+        "Answer": "B) Supraclavicular block"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Regional Anesthesia",
+        "Question": "Which local anesthetic is contraindicated in a Bier block?",
+        "Options": [
+            "A) Ropivacaine",
+            "B) Lidocaine",
+            "C) Bupivacaine",
+            "D) Chloroprocaine"
+        ],
+        "Answer": "C) Bupivacaine"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Regional Anesthesia",
+        "Question": "A brachial plexus block will NOT provide anesthesia for which of the following surgeries?",
+        "Options": [
+            "A) Carpal tunnel release",
+            "B) Forearm fracture repair",
+            "C) Total shoulder arthroplasty",
+            "D) Above-elbow amputation"
+        ],
+        "Answer": "C) Total shoulder arthroplasty"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Regional Anesthesia",
+        "Question": "The most common complication after a neuraxial anesthesia is:",
+        "Options": [
+            "A) Nerve injury",
+            "B) Infection",
+            "C) Post-dural puncture headache",
+            "D) Hematoma"
+        ],
+        "Answer": "C) Post-dural puncture headache"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Special Techniques",
+        "Question": "In which procedure is a TEE (Transesophageal echocardiogram) most likely used?",
+        "Options": [
+            "A) Elective hernia repair",
+            "B) Cesarean section",
+            "C) Coronary artery bypass graft surgery",
+            "D) Thyroidectomy"
+        ],
+        "Answer": "C) Coronary artery bypass graft surgery"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Special Techniques",
+        "Question": "The use of ultrasonography in regional anesthesia primarily helps to:",
+        "Options": [
+            "A) Reduce the dose of local anesthetic used.",
+            "B) Identify vascular structures.",
+            "C) Prolong the duration of the block.",
+            "D) Decrease the risk of systemic toxicity."
+        ],
+        "Answer": "B) Identify vascular structures"
+    },
+    {
+        "Category": "CLINICAL SCIENCES - Special Techniques",
+        "Question": "Which technique is commonly used for continuous post-operative pain management after total knee arthroplasty?",
+        "Options": [
+            "A) Femoral nerve block",
+            "B) Caudal epidural",
+            "C) Adductor canal block",
+            "D) Popliteal block"
+        ],
+        "Answer": "C) Adductor canal block"
+    },
+    {
+        "Category": "ORGAN-BASED BASIC & CLINICAL SCIENCES",
+        "Question": "The most common site of lumbar puncture is between which vertebrae?",
+        "Options": [
+            "A) L3-L4",
+            "B) L4-L5",
+            "C) L5-S1",
+            "D) L2-L3"
+        ],
+        "Answer": "B) L4-L5"
+    },
+    {
+        "Category": "ORGAN-BASED BASIC & CLINICAL SCIENCES",
+        "Question": "Which volatile anesthetic has been shown to increase cerebral blood flow the most?",
+        "Options": [
+            "A) Sevoflurane",
+            "B) Halothane",
+            "C) Isoflurane",
+            "D) Nitrous oxide"
+        ],
+        "Answer": "B) Halothane"
+    },
+    {
+        "Category": "ORGAN-BASED BASIC & CLINICAL SCIENCES",
+        "Question": "Guillain-Barre syndrome primarily affects which part of the nervous system?",
+        "Options": [
+            "A) Central nervous system",
+            "B) Peripheral nervous system",
+            "C) Autonomic nervous system",
+            "D) Enteric nervous system"
+        ],
+        "Answer": "B) Peripheral nervous system"
+    },
+    {
+        "Category": "Respiratory System",
+        "Question": "Which of the following factors causes a leftward shift of the oxygen-hemoglobin dissociation curve?",
+        "Options": [
+            "A) Acidosis",
+            "B) Increase in temperature",
+            "C) Decrease in 2,3-DPG",
+            "D) Hypercarbia"
+        ],
+        "Answer": "C) Decrease in 2,3-DPG"
+    },
+    {
+        "Category": "Respiratory System",
+        "Question": "The primary site of gas exchange in the lungs is:",
+        "Options": [
+            "A) Bronchi",
+            "B) Bronchioles",
+            "C) Alveoli",
+            "D) Trachea"
+        ],
+        "Answer": "C) Alveoli"
+    },
+    {
+        "Category": "Cardiovascular System",
+        "Question": "Which of the following is a Class III antiarrhythmic?",
+        "Options": [
+            "A) Amiodarone",
+            "B) Lidocaine",
+            "C) Verapamil",
+            "D) Atropine"
+        ],
+        "Answer": "A) Amiodarone"
+    },
+    {
+        "Category": "Painful Disease States",
+        "Question": "Which of the following opioids has the most pronounced effect on histamine release?",
+        "Options": [
+            "A) Fentanyl",
+            "B) Morphine",
+            "C) Remifentanil",
+            "D) Hydromorphone"
+        ],
+        "Answer": "B) Morphine"
+    },
+    {
+        "Category": "CLINICAL SUBSPECIALTIES - Pediatric Anesthesia",
+        "Question": "What is the most common cause of cardiac arrest during pediatric anesthesia?",
+        "Options": [
+            "A) Anaphylaxis",
+            "B) Hypovolemia",
+            "C) Respiratory events",
+            "D) Overdose of anesthetic agents"
+        ],
+        "Answer": "C) Respiratory events"
+    },
+    {
+        "Category": "Ethics and Medico-Legal Issues",
+        "Question": "Informed consent is invalidated if:",
+        "Options": [
+            "A) The patient is a minor",
+            "B) The patient is given all the details of the procedure",
+            "C) The patient is under the influence of drugs or alcohol",
+            "D) The procedure is fully explained to the patient's family"
+        ],
+        "Answer": "C) The patient is under the influence of drugs or alcohol"
+    },
+    {
+        "Category": "SPECIAL PROBLEMS OR ISSUES IN ANESTHESIOLOGY -Gastrointestinal/Hepatic Systems",
+        "Question": "Which volatile anesthetic is most hepatotoxic?",
+        "Options": [
+            "A) Isoflurane",
+            "B) Sevoflurane",
+            "C) Halothane",
+            "D) Desflurane"
+        ],
+        "Answer": "C) Halothane"
+    },
+    {
+        "Category": "SPECIAL PROBLEMS OR ISSUES IN ANESTHESIOLOGY -Gastrointestinal/Hepatic Systems",
+        "Question": "Prolonged administration of which drug is associated with constipation?",
+        "Options": [
+            "A) Ondansetron",
+            "B) Morphine",
+            "C) Ketamine",
+            "D) Propofol"
+        ],
+        "Answer": "B) Morphine"
+    },
+    {
+        "Category": "SPECIAL PROBLEMS OR ISSUES IN ANESTHESIOLOGY -Gastrointestinal/Hepatic Systems",
+        "Question": "The Mallampati score assists in predicting:",
+        "Options": [
+            "A) Liver function",
+            "B) Risk of aspiration",
+            "C) Difficulty in intubation",
+            "D) Gastric emptying time"
+        ],
+        "Answer": "C) Difficulty in intubation"
+    },
+    {
+        "Category": "SPECIAL PROBLEMS OR ISSUES IN ANESTHESIOLOGY -Gastrointestinal/Hepatic Systems",
+        "Question": "Which drug decreases lower esophageal sphincter tone, increasing the risk of aspiration?",
+        "Options": [
+            "A) Metoclopramide",
+            "B) Midazolam",
+            "C) Atropine",
+            "D) Cisatracurium"
+        ],
+        "Answer": "B) Midazolam"
+    },
+    {
+        "Category": "SPECIAL PROBLEMS OR ISSUES IN ANESTHESIOLOGY -Gastrointestinal/Hepatic Systems",
+        "Question": "The most sensitive indicator of early hepatic dysfunction is:",
+        "Options": [
+            "A) Elevated bilirubin",
+            "B) Decreased albumin",
+            "C) Prolonged prothrombin time",
+            "D) Elevated alanine transaminase (ALT)"
+        ],
+        "Answer": "D) Elevated alanine transaminase (ALT)"
+    },
+    {
+        "Category": "Renal & Urinary Systems/Electrolyte Balance",
+        "Question": "Hyperkalemia's ECG changes first manifest as:",
+        "Options": [
+            "A) Prolonged QT interval",
+            "B) ST elevation",
+            "C) Peaked T-waves",
+            "D) Wide QRS complex"
+        ],
+        "Answer": "C) Peaked T-waves"
+    },
+    {
+        "Category": "Renal & Urinary Systems/Electrolyte Balance",
+        "Question": "Which diuretic acts on the ascending loop of Henle?",
+        "Options": [
+            "A) Furosemide",
+            "B) Hydrochlorothiazide",
+            "C) Spironolactone",
+            "D) Mannitol"
+        ],
+        "Answer": "A) Furosemide"
+    },
+    {
+        "Category": "Renal & Urinary Systems/Electrolyte Balance",
+        "Question": "The primary anesthetic concern with a patient with end-stage renal disease is:",
+        "Options": [
+            "A) Increased sensitivity to non-depolarizing neuromuscular blockers",
+            "B) Decreased sensitivity to volatile anesthetics",
+            "C) Hyperkalemia",
+            "D) Hypocalcemia"
+        ],
+        "Answer": "A) Increased sensitivity to non-depolarizing neuromuscular blockers"
+    },
+    {
+        "Category": "Hematologic System",
+        "Question": "A side effect of the anticoagulant heparin is:",
+        "Options": [
+            "A) Hypokalemia",
+            "B) Heparin-induced thrombocytopenia (HIT)",
+            "C) Hyponatremia",
+            "D) Hyperglycemia"
+        ],
+        "Answer": "B) Heparin-induced thrombocytopenia (HIT)"
+    },
+    {
+        "Category": "Hematologic System",
+        "Question": "Which clotting factor is deficient in Hemophilia A?",
+        "Options": [
+            "A) Factor VII",
+            "B) Factor IX",
+            "C) Factor VIII",
+            "D) Factor XI"
+        ],
+        "Answer": "C) Factor VIII"
+    },
+    {
+        "Category": "Hematologic System",
+        "Question": "Which blood component would you transfuse to a patient with a coagulopathy secondary to liver disease?",
+        "Options": [
+            "A) Packed red blood cells (PRBCs)",
+            "B) Platelets",
+            "C) Fresh frozen plasma (FFP)",
+            "D) Cryoprecipitate"
+        ],
+        "Answer": "C) Fresh frozen plasma (FFP)"
+    },
+    {
+        "Category": "Endocrine & Metabolic Systems",
+        "Question": "Which of the following is a potential complication of untreated pheochromocytoma in surgery?",
+        "Options": [
+            "A) Hypoglycemia",
+            "B) Bradycardia",
+            "C) Hypotension",
+            "D) Hypertensive crisis"
+        ],
+        "Answer": "D) Hypertensive crisis"
+    },
+    {
+        "Category": "Endocrine & Metabolic Systems",
+        "Question": "In diabetic ketoacidosis, one would expect to find:",
+        "Options": [
+            "A) Metabolic alkalosis",
+            "B) Decreased blood glucose",
+            "C) Kussmaul breathing",
+            "D) Hypernatremia"
+        ],
+        "Answer": "C) Kussmaul breathing"
+    },
+    {
+        "Category": "Neuromuscular Diseases & Disorders",
+        "Question": "Myasthenia gravis is associated with antibodies against:",
+        "Options": [
+            "A) Acetylcholine receptors",
+            "B) Myosin",
+            "C) Troponin",
+            "D) Dystrophin"
+        ],
+        "Answer": "A) Acetylcholine receptors"
+    },
+    {
+        "Category": "Neuromuscular Diseases & Disorders",
+        "Question": "Patients with Duchenne muscular dystrophy may have a dangerous hyperkalemic response to:",
+        "Options": [
+            "A) Propofol",
+            "B) Succinylcholine",
+            "C) Cisatracurium",
+            "D) Fentanyl"
+        ],
+        "Answer": "B) Succinylcholine"
+    },
+    {
+        "Category": "Obstetric Anesthesia",
+        "Question": "The primary anesthetic concern for a pregnant patient at 36 weeks gestation undergoing non-obstetric surgery is:",
+        "Options": [
+            "A) Uterine atony",
+            "B) Fetal distress",
+            "C) Aortocaval compression",
+            "D) Maternal hyperventilation"
+        ],
+        "Answer": "C) Aortocaval compression"
+    },
+    {
+        "Category": "Organ Donors",
+        "Question": "When maintaining a brain-dead organ donor for transplantation, it is essential to:",
+        "Options": [
+            "A) Maintain a systolic blood pressure above 90 mmHg",
+            "B) Administer large doses of opioids to ensure the patient does not feel pain",
+            "C) Frequently monitor intraocular pressure",
+            "D) Keep the PaCO2 above 60 mmHg to promote cerebral vasodilation"
+        ],
+        "Answer": "A) Maintain a systolic blood pressure above 90 mmHg"
+    },
+    {
+        "Category": "Ethics and Medico-Legal Issues",
+        "Question": "The principle that implies \"do no harm\" is:",
+        "Options": [
+            "A) Beneficence",
+            "B) Autonomy",
+            "C) Justice",
+            "D) Nonmaleficence"
+        ],
+        "Answer": "D) Nonmaleficence"
+    },
+    {
+        "Category": "Radiologic Procedures",
+        "Question": "Which of the following agents used in radiologic procedures can cause nephrotoxicity?",
+        "Options": [
+            "A) Iodinated contrast agents",
+            "B) Barium sulfate",
+            "C) Gadolinium-based contrast agents",
+            "D) Technetium-99m"
+        ],
+        "Answer": "A) Iodinated contrast agents"
+    },
+    {
+        "Category": "Otorhinolaryngology (ENT) Anesthesia",
+        "Question": "During tonsillectomy, the main concern about the anesthetic technique is:",
+        "Options": [
+            "A) Preventing hypotension",
+            "B) Providing deep anesthesia to prevent coughing and bucking",
+            "C) Rapid emergence for post-op airway assessment",
+            "D) Inducing bronchodilation"
+        ],
+        "Answer": "B) Providing deep anesthesia to prevent coughing and bucking"
+    },
+    {
+        "Category": "Otorhinolaryngology (ENT) Anesthesia",
+        "Question": "The most common complication following thyroid surgery is:",
+        "Options": [
+            "A) Hypocalcemia",
+            "B) Hypercalcemia",
+            "C) Hyperthyroidism",
+            "D) Hemorrhage"
+        ],
+        "Answer": "A) Hypocalcemia"
+    },
+    {
+        "Category": "Otorhinolaryngology (ENT) Anesthesia",
+        "Question": "Which of the following drugs is contraindicated in middle ear surgery due to its ototoxicity?",
+        "Options": [
+            "A) Vancomycin",
+            "B) Cefazolin",
+            "C) Neomycin",
+            "D) Penicillin"
+        ],
+        "Answer": "C) Neomycin"
+    },
+    {
+        "Category": "Otorhinolaryngology (ENT) Anesthesia",
+        "Question": "For patients undergoing surgery for sleep apnea (e.g., UPPP), postoperative concerns include:",
+        "Options": [
+            "A) Rapid airway obstruction",
+            "B) Pulmonary edema",
+            "C) Severe hypoxemia",
+            "D) Both A and C"
+        ],
+        "Answer": "D) Both A and C"
+    },
+    {
+        "Category": "Trauma, Burn Management, Mass Casualty, Biological Warfare",
+        "Question": "A patient with an inhalation injury after a fire accident might present with:",
+        "Options": [
+            "A) Carbon monoxide poisoning",
+            "B) Cyanosis",
+            "C) Hoarseness",
+            "D) All of the above"
+        ],
+        "Answer": "D) All of the above"
+    },
+    {
+        "Category": "Trauma, Burn Management, Mass Casualty, Biological Warfare",
+        "Question": "In a mass casualty incident, the primary triage focuses on:",
+        "Options": [
+            "A) Treating the most critically injured first",
+            "B) Treating the least injured first to clear them from the scene",
+            "C) Identifying and tagging patients based on the severity of their injuries",
+            "D) Administering first aid to all victims before hospital transport"
+        ],
+        "Answer": "C) Identifying and tagging patients based on the severity of their injuries"
+    },
+    {
+        "Category": "Trauma, Burn Management, Mass Casualty, Biological Warfare",
+        "Question": "In cases of nerve agent exposure (e.g., sarin), the immediate first-line treatment includes:",
+        "Options": [
+            "A) Opioid antagonists",
+            "B) Atropine and pralidoxime",
+            "C) Beta-blockers",
+            "D) Sodium bicarbonate"
+        ],
+        "Answer": "B) Atropine and pralidoxime"
+    },
+    {
+        "Category": "Geriatric Anesthesia/Aging",
+        "Question": "Age-related reduction in hepatic blood flow affects the metabolism of:",
+        "Options": [
+            "A) Atracurium",
+            "B) Morphine",
+            "C) Propofol",
+            "D) Sevoflurane"
+        ],
+        "Answer": "B) Morphine"
+    },
+    {
+        "Category": "Geriatric Anesthesia/Aging",
+        "Question": "The primary concern when giving anesthesia to an elderly patient is:",
+        "Options": [
+            "A) Increased risk of hypothermia",
+            "B) Decreased MAC (Minimum Alveolar Concentration) for inhaled anesthetics",
+            "C) Reduced total body water",
+            "D) All of the above"
+        ],
+        "Answer": "D) All of the above"
+    },
+    {
+        "Category": "Critical Care",
+        "Question": "A common cause of increased peak inspiratory pressure in mechanically ventilated patients is:",
+        "Options": [
+            "A) Bronchospasm",
+            "B) Hypovolemia",
+            "C) ARDS",
+            "D) Pneumothorax"
+        ],
+        "Answer": "A) Bronchospasm"
+    },
+    {
+        "Category": "Special Problems or Issues in Anesthesiology",
+        "Question": "For electroconvulsive therapy (ECT), the preferred muscle relaxant is:",
+        "Options": [
+            "A) Succinylcholine",
+            "B) Rocuronium",
+            "C) Cisatracurium",
+            "D) Vecuronium"
+        ],
+        "Answer": "A) Succinylcholine"
+    },
+    {
+        "Category": "Anesthesia for Plastic Surgery, Liposuction",
+        "Question": "A primary anesthetic concern during major liposuction procedures is:",
+        "Options": [
+            "A) Hypothermia",
+            "B) Lidocaine toxicity",
+            "C) Hyperkalemia",
+            "D) Pneumothorax"
+        ],
+        "Answer": "B) Lidocaine toxicity"
+    },
+    {
+        "Category": "Anesthesia for Plastic Surgery, Liposuction",
+        "Question": "During a face lift procedure, the primary risk associated with local anesthetic infiltration is:",
+        "Options": [
+            "A) Bleeding",
+            "B) Infection",
+            "C) Blindness",
+            "D) Scarring"
+        ],
+        "Answer": "C) Blindness"
+    },
+    {
+        "Category": "Anesthesia for Laparoscopic Surgery",
+        "Question": "The main physiological effect of pneumoperitoneum in laparoscopic surgery is:",
+        "Options": [
+            "A) Decreased venous return",
+            "B) Decreased tidal volume",
+            "C) Increased residual volume",
+            "D) Increased cardiac output"
+        ],
+        "Answer": "A) Decreased venous return"
+    },
+    {
+        "Category": "Anesthesia for Laparoscopic Surgery",
+        "Question": "A common complication during the initial phase of laparoscopic surgery is:",
+        "Options": [
+            "A) Gastric rupture",
+            "B) Vessel injury during trocar insertion",
+            "C) Deep vein thrombosis",
+            "D) Cerebral embolism"
+        ],
+        "Answer": "B) Vessel injury during trocar insertion"
+    },
+    {
+        "Category": "Anesthesia for Laparoscopic Surgery",
+        "Question": "The main reason for hypercarbia during laparoscopic procedures is:",
+        "Options": [
+            "A) Decreased minute ventilation",
+            "B) Absorption of CO2 used for insufflation",
+            "C) Decreased alveolar ventilation",
+            "D) Increased metabolism"
+        ],
+        "Answer": "B) Absorption of CO2 used for insufflation"
+    },
+    {
+        "Category": "Ophthalmologic Anesthesia",
+        "Question": "The main concern during retrobulbar block is:",
+        "Options": [
+            "A) Globe perforation",
+            "B) Retrobulbar hemorrhage",
+            "C) Optic nerve injury",
+            "D) Central retinal artery occlusion"
+        ],
+        "Answer": "A) Globe perforation"
+    },
+    {
+        "Category": "Ophthalmologic Anesthesia",
+        "Question": "The most common cause of blindness after non-ophthalmic surgery is:",
+        "Options": [
+            "A) Central retinal artery occlusion",
+            "B) Ischemic optic neuropathy",
+            "C) Globe perforation",
+            "D) Retinal detachment"
+        ],
+        "Answer": "B) Ischemic optic neuropathy"
+    },
+    {
+        "Category": "Orthopedic Anesthesia",
+        "Question": "A major concern during a total hip replacement is:",
+        "Options": [
+            "A) Embolism (air, bone marrow, fat)",
+            "B) Bleeding",
+            "C) Infection",
+            "D) Myositis ossificans"
+        ],
+        "Answer": "A) Embolism (air, bone marrow, fat)"
+    },
+    {
+        "Category": "Orthopedic Anesthesia",
+        "Question": "The primary reason for hypotension during spinal anesthesia in an orthopedic surgery is:",
+        "Options": [
+            "A) Sympathectomy",
+            "B) Direct spinal cord injury",
+            "C) Hypovolemia",
+            "D) Allergic reaction"
+        ],
+        "Answer": "A) Sympathectomy"
+    },
+    {
+        "Category": "Anesthesia for Ambulatory Surgery",
+        "Question": "The primary advantage of using propofol for ambulatory surgeries is:",
+        "Options": [
+            "A) Muscle relaxation",
+            "B) Analgesia",
+            "C) Rapid and clear-headed recovery",
+            "D) Anterograde amnesia"
+        ],
+        "Answer": "C) Rapid and clear-headed recovery"
+    },
+    {
+        "Category": "Anesthesia for Ambulatory Surgery",
+        "Question": "A primary concern with ambulatory surgery is:",
+        "Options": [
+            "A) Prolonged hospital stay",
+            "B) Postoperative nausea and vomiting (PONV)",
+            "C) Deep vein thrombosis",
+            "D) Wound infection"
+        ],
+        "Answer": "B) Postoperative nausea and vomiting (PONV)"
+    },
+    {
+        "Category": "Anesthesia for Ambulatory Surgery",
+        "Question": "The preferred method for pain control in ambulatory surgeries is:",
+        "Options": [
+            "A) Systemic opioids",
+            "B) Regional anesthesia",
+            "C) NSAIDs",
+            "D) Local anesthetics"
+        ],
+        "Answer": "D) Local anesthetics"
+    },
+    {
+        "Category": "Quality Improvement and Patient Safety",
+        "Question": "The main purpose of root cause analysis in a medical setting is to:",
+        "Options": [
+            "A) Assign blame for adverse events",
+            "B) Understand underlying factors contributing to errors",
+            "C) Fulfill legal requirements",
+            "D) Evaluate the effectiveness of treatment"
+        ],
+        "Answer": "B) Understand underlying factors contributing to errors"
+    },
+    {
+        "Category": "Diversity, Equity, and Inclusion (DEI) in Health Care",
+        "Question": "Cultural competence in healthcare primarily means:",
+        "Options": [
+            "A) Speaking multiple languages",
+            "B) Being respectful of different religions",
+            "C) Understanding and addressing patient needs across different cultures",
+            "D) Hiring diverse staff"
+        ],
+        "Answer": "C) Understanding and addressing patient needs across different cultures"
+    },
+    {
+        "Category": "Healthcare Disparities",
+        "Question": "The main reason for healthcare disparities in most societies is:",
+        "Options": [
+            "A) Lack of medical knowledge",
+            "B) Socioeconomic factors",
+            "C) Availability of medical technologies",
+            "D) Genetics"
+        ],
+        "Answer": "B) Socioeconomic factors"
+    },
+    {
+        "Category": "Critical Care",
+        "Question": "In ARDS, a common ventilatory strategy includes:",
+        "Options": [
+            "A) High tidal volumes to improve oxygenation",
+            "B) Low tidal volumes to protect the lung",
+            "C) Intermittent mandatory ventilation",
+            "D) High PEEP only during hypoxemia"
+        ],
+        "Answer": "B) Low tidal volumes to protect the lung"
+    },
+    {
+        "Category": "Critical Care",
+        "Question": "The mainstay for the management of septic shock is:",
+        "Options": [
+            "A) Vasopressors",
+            "B) Fluid resuscitation",
+            "C) Steroids",
+            "D) Antibiotics"
+        ],
+        "Answer": "B) Fluid resuscitation"
+    },
+    {
+        "Category": "Critical Care",
+        "Question": "A patient in the ICU with an unexplained drop in platelets should be evaluated for:",
+        "Options": [
+            "A) Deep vein thrombosis",
+            "B) Heparin-induced thrombocytopenia (HIT)",
+            "C) Vitamin K deficiency",
+            "D) Hemolytic uremic syndrome"
+        ],
+        "Answer": "B) Heparin-induced thrombocytopenia (HIT)"
+    },
+    {
+        "Category": "Critical Care",
+        "Question": "In a mechanically ventilated patient, auto-PEEP is most commonly associated with:",
+        "Options": [
+            "A) Asthma and COPD",
+            "B) Pneumonia and ARDS",
+            "C) Pleural effusion",
+            "D) Pulmonary fibrosis"
+        ],
+        "Answer": "A) Asthma and COPD"
+    },
+    {
+        "Category": "Critical Care",
+        "Question": "A common reason for elevated lactate levels in septic patients is:",
+        "Options": [
+            "A) Liver dysfunction",
+            "B) Inadequate oxygen delivery",
+            "C) Renal failure",
+            "D) Overproduction of lactate"
+        ],
+        "Answer": "B) Inadequate oxygen delivery"
+    },
+    {
+        "Category": "Ethics and Medico-Legal Issues",
+        "Question": "Informed consent primarily serves to:",
+        "Options": [
+            "A) Protect physicians from legal action",
+            "B) Ensure patients understand risks and benefits of procedures",
+            "C) Ensure the hospital is not at fault",
+            "D) Provide a formal documentation process for procedures"
+        ],
+        "Answer": "B) Ensure patients understand risks and benefits of procedures"
+    },
+    {
+        "Category": "Ethics and Medico-Legal Issues",
+        "Question": "The principle of \"do no harm\" is referred to as:",
+        "Options": [
+            "A) Beneficence",
+            "B) Autonomy",
+            "C) Non-maleficence",
+            "D) Justice"
+        ],
+        "Answer": "C) Non-maleficence"
+    },
+    {
+        "Category": "Ethics and Medico-Legal Issues",
+        "Question": "A DNR (Do Not Resuscitate) order means:",
+        "Options": [
+            "A) No medical treatment should be provided",
+            "B) Only comfort measures are to be provided",
+            "C) No attempts should be made to restart the heart or breathing",
+            "D) The patient should not be admitted to the ICU"
+        ],
+        "Answer": "C) No attempts should be made to restart the heart or breathing"
+    },
+    {
+        "Category": "Ethics and Medico-Legal Issues",
+        "Question": "Which of the following is NOT considered a breach of patient confidentiality?",
+        "Options": [
+            "A) Discussing a patient's condition with their spouse without consent",
+            "B) Sharing patient details with a colleague for teaching purposes without naming the patient",
+            "C) Leaving a patient's chart in a public place",
+            "D) Posting about a patient's condition on social media without naming the patient"
+        ],
+        "Answer": "B) Sharing patient details with a colleague for teaching purposes without naming the patient"
+    },
+    {
+        "Category": "Organ Donors",
+        "Question": "Brain death criteria for organ donation typically include all EXCEPT:",
+        "Options": [
+            "A) Absence of brain stem reflexes",
+            "B) No response to painful stimuli",
+            "C) Flat EEG",
+            "D) Stable blood pressure without support"
+        ],
+        "Answer": "D) Stable blood pressure without support"
+    },
+    {
+        "Category": "Organ Donors",
+        "Question": "In potential organ donors, the most common cause of hemodynamic instability is:",
+        "Options": [
+            "A) Cardiac tamponade",
+            "B) Neurogenic shock",
+            "C) Sepsis",
+            "D) Pulmonary embolism"
+        ],
+        "Answer": "B) Neurogenic shock"
+    },
+    {
+        "Category": "Organ Donors",
+        "Question": "Donation after cardiac death involves retrieval of organs:",
+        "Options": [
+            "A) After confirmation of brain death",
+            "B) Once the heart stops naturally and is not restarted",
+            "C) When the patient has a non-survivable brain injury but does not meet brain death criteria",
+            "D) Both B and C"
+        ],
+        "Answer": "D) Both B and C"
+    },
+    {
+        "Category": "Radiologic Procedures",
+        "Question": "During a CT scan with contrast, a primary anesthetic concern is:",
+        "Options": [
+            "A) Allergic reactions to the contrast",
+            "B) Radiation exposure",
+            "C) Positioning-related injuries",
+            "D) Nephrotoxicity from contrast"
+        ],
+        "Answer": "A) Allergic reactions to the contrast"
+    },
+    {
+        "Category": "Radiologic Procedures",
+        "Question": "The most common side effect of MRI contrast agents is:",
+        "Options": [
+            "A) Anaphylaxis",
+            "B) Nephrogenic systemic fibrosis",
+            "C) Hemolysis",
+            "D) Thrombocytopenia"
+        ],
+        "Answer": "B) Nephrogenic systemic fibrosis"
+    },
+    {
+        "Category": "Radiologic Procedures",
+        "Question": "In patients with a pacemaker, which imaging modality is contraindicated?",
+        "Options": [
+            "A) CT scan",
+            "B) X-ray",
+            "C) MRI",
+            "D) Ultrasound"
+        ],
+        "Answer": "C) MRI"
+    },
+    {
+        "Category": "Diversity, Equity, and Inclusion (DEI) in Health Care",
+        "Question": "Which statement best exemplifies the principle of health equity?",
+        "Options": [
+            "A) All patients should receive the same treatment.",
+            "B) Treatment should be based on the severity of illness only.",
+            "C) Every patient should be provided with the resources necessary to achieve optimal health outcomes.",
+            "D) Resources should be evenly divided among patients."
+        ],
+        "Answer": "C) Every patient should be provided with the resources necessary to achieve optimal health outcomes."
+    },
+    {
+        "Category": "Healthcare Disparities",
+        "Question": "Which of the following is a significant contributing factor to healthcare disparities?",
+        "Options": [
+            "A) Genetic differences between populations",
+            "B) Equal access to healthcare services for all individuals",
+            "C) Socioeconomic status and systemic barriers",
+            "D) Overuse of advanced diagnostic tools in marginalized populations"
+        ],
+        "Answer": "C) Socioeconomic status and systemic barriers"
+    },
+    {
+        "Category": "Electroconvulsive Therapy",
+        "Question": "The primary anesthetic concern during electroconvulsive therapy (ECT) is:",
+        "Options": [
+            "A) Deep anesthesia to prevent awareness",
+            "B) Minimizing the duration of muscle contractions",
+            "C) Ensuring prolonged amnesia post-procedure",
+            "D) Ensuring hypotension throughout the procedure"
+        ],
+        "Answer": "B) Minimizing the duration of muscle contractions"
+    },
+    {
+        "Category": "Anesthesia for Laparoscopic Surgery",
+        "Question": "One of the primary concerns in laparoscopic surgery is:",
+        "Options": [
+            "A) Hypothermia due to exposure",
+            "B) Decreased cardiac output due to increased intra-abdominal pressure",
+            "C) Hypercarbia due to carbon dioxide insufflation",
+            "D) Hypoxemia due to one-lung ventilation"
+        ],
+        "Answer": "C) Hypercarbia due to carbon dioxide insufflation"
+    },
+    {
+        "Category": "Anesthesia for Laparoscopic Surgery",
+        "Question": "The positioning in laparoscopic cholecystectomy can lead to:",
+        "Options": [
+            "A) Increased venous return to the heart",
+            "B) Decreased preload and cardiac output",
+            "C) Hyperkalemia",
+            "D) Prolonged neuromuscular blockade"
+        ],
+        "Answer": "B) Decreased preload and cardiac output"
+    },
+    {
+        "Category": "Orthopedic Anesthesia",
+        "Question": "The primary concern for a patient undergoing a total knee replacement with a history of myocardial infarction is:",
+        "Options": [
+            "A) Acute blood loss",
+            "B) Cement implantation syndrome",
+            "C) Deep vein thrombosis and pulmonary embolism",
+            "D) Local anesthetic systemic toxicity (LAST)"
+        ],
+        "Answer": "C) Deep vein thrombosis and pulmonary embolism"
+    },
+    {
+        "Category": "Orthopedic Anesthesia",
+        "Question": "In patients undergoing hip surgery, the preferred method of anesthesia to reduce post-operative morbity is:",
+        "Options": [
+            "A) General anesthesia",
+            "B) Spinal anesthesia",
+            "C) Peripheral nerve block",
+            "D) IV sedation without regional anesthesia"
+        ],
+        "Answer": "B) Spinal anesthesia"
+    },
+    {
+        "Category": "Quality Improvement and Patient Safety",
+        "Question": "The primary aim of the root cause analysis (RCA) in the event of a medical error is to:",
+        "Options": [
+            "A) Assign blame to the responsible parties",
+            "B) Provide documentation for legal defense",
+            "C) Identify systems-based issues leading to the event",
+            "D) Justify clinical decisions made during the event"
+        ],
+        "Answer": "C) Identify systems-based issues leading to the event"
+    },
+    {
+        "Category": "Trauma, Burn Management, Mass Casualty, Biological Warfare",
+        "Question": "The primary initial management for a patient with suspected inhalation injury during a fire accident is:",
+        "Options": [
+            "A) Administer nebulized heparin and N-acetylcysteine",
+            "B) Immediate intubation irrespective of symptoms",
+            "C) 100% oxygen to treat cyanide poisoning",
+            "D) Bronchoscopy to assess airway damage"
+        ],
+        "Answer": "C) 100% oxygen to treat cyanide poisoning"
+    },
+    {
+        "Category": "Trauma, Burn Management, Mass Casualty, Biological Warfare",
+        "Question": "A patient in a mass casualty incident tagged as black means:",
+        "Options": [
+            "A) Immediate medical attention required",
+            "B) Non-urgent, can be delayed",
+            "C) Deceased or survival unlikely even with treatment",
+            "D) Needs assistance but stable for now"
+        ],
+        "Answer": "C) Deceased or survival unlikely even with treatment"
+    },
+    {
+        "Category": "Trauma, Burn Management, Mass Casualty, Biological Warfare",
+        "Question": "In the context of biological warfare, the agent causing pulmonary anthrax is:",
+        "Options": [
+            "A) Yersinia pestis",
+            "B) Variola major",
+            "C) Bacillus anthracis",
+            "D) Rickettsia rickettsii"
+        ],
+        "Answer": "C) Bacillus anthracis"
+    }
+]
